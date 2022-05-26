@@ -1,6 +1,5 @@
 # Docker with Go
-In this project I used Golang to build a cache that has the most recent items only.
-![image](https://user-images.githubusercontent.com/96225596/169418790-cf62a377-efd5-476b-9fb3-4964ea4cad50.png)
+In this project I used Docker with Go.
 
 ## Technologies Used
 * Golang
