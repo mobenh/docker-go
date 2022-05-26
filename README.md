@@ -1,8 +1,8 @@
 # Docker with Go
-In this project I used Docker with Go.
+In this project I used Docker with a simple Go project.
 
 ## Technologies Used
-* Golang
+* Go
 * Docker
 
 ## Dependencies
